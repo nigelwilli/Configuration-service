@@ -20,7 +20,7 @@ spring:
         use-sql-comments: true
 
 server:
-  port: 1001
+  port: 10001
 
 eureka:
   client:
